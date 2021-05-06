@@ -8,11 +8,6 @@ title: Privacy Policy
 
 Norwegian NeLS Galaxy Sites or "the Galaxy Service": any one of the Galaxy sites provided to you by the partner Universities in the Elixir Norway Project, including but not limited to:
 
-- https://galaxy-uib.bioinfo.no
-- https://galaxy-uio.bioinfo.no
-- https://galaxy-uit.bioinfo.no
-- https://galaxy-ntnu.bioinfo.no
-- https://galaxy-nmbu.bioinfo.no
 - https://usegalaxy.no
 
 
@@ -28,7 +23,7 @@ Beyond this, we will only store personal information which you provide to us vol
 
 The information required to register with the Norwegian NeLS Galaxy Sites and all uploaded data is solely used to offer the services provided by the Elixir Norway Team. Access is provided through authentication using your FEIDE user identity or your NeLS IdP user identity. This is required to guarantee the legitimate use of the service and to prevent duplicate registrations abusing our quota system.
 
-For the Norwegian NeLS Galaxy Sites you can see all of the information we have stored related to your person and you have the right to correct this information at any time. For the Galaxy service you may do this by going to https://galaxy-\<uni\>.bioinfo.no, clicking on "User" → "Preferences". You also have the right to retract your consent to use personal identifiable information at any time with effect for the future. An email to the address stated below is sufficient. We never use or share the personally identifiable information provided to us in ways unrelated to the ones described above.
+You can see all of the information we have stored related to your person and you have the right to correct this information at any time. For the Galaxy service you may do this by going to https://usegalaxy.no, clicking on "User" → "Preferences". You also have the right to retract your consent to use personal identifiable information at any time with effect for the future. An email to the address stated below is sufficient. We never use or share the personally identifiable information provided to us in ways unrelated to the ones described above.
 
 ## Cookies
 
