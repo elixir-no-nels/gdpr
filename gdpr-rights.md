@@ -13,7 +13,7 @@ We will inform you of any and all processing activities and their affect on your
 
 ## Right to Access to Personal Information
 
-The only personal information we store that is associated with you, you can see on https://galaxy-\<uni\>.bioinfo.no/user.
+The only personal information we store that is associated with you, you can see on https://usegalaxy.no/user.
 We have logs containing IP addresses but these logs are destroyed at latest within 48 hours and are not associated with a single user account.
 
 ## Right to Rectification of Personal Information
