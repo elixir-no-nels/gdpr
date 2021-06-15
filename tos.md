@@ -8,11 +8,6 @@ title: Terms of Service
 
 Norwegian NeLS Galaxy Sites or "the Galaxy Service": any one of the Galaxy sites provided to you by the partner universities in the Elixir Norway Project, including but not limited to:
 
-- https://galaxy-uib.bioinfo.no
-- https://galaxy-uio.bioinfo.no
-- https://galaxy-uit.bioinfo.no
-- https://galaxy-ntnu.bioinfo.no
-- https://galaxy-nmbu.bioinfo.no
 - https://usegalaxy.no
 
 
